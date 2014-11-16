@@ -8,7 +8,7 @@ const int sensorPin = 0;
 const int ledPin = 9;
 // threshold sensor value for on/off --- needs to be determined
 const int threshold = 400;
-// autoTune init values
+// init variables
 int lightLevel;
 
 void setup()
